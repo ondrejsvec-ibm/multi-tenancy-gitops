@@ -3,6 +3,6 @@ kind: ConsoleNotification
 metadata:
   name: banner-env
 spec:
-  backgroundColor: teal
+  backgroundColor: red
   location: BannerTop
   text: Cluster description
